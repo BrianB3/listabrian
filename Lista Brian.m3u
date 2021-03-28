@@ -7,11 +7,11 @@ http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/814
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/2388
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO *HQ" tvg-logo="https://i.imgur.com/0xN2Ibe.jpg" group-title="CINE",HBO *HQ
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/899
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO + *FHD" tvg-logo="https://i.imgur.com/qREmRez.jpg" group-title="CINE",HBO + *FHD
+#EXTINF:-1 tvg-id="HBO +" tvg-name="HBO + *FHD" tvg-logo="https://i.imgur.com/qREmRez.jpg" group-title="CINE",HBO + *FHD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/812
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO + *HD" tvg-logo="https://i.imgur.com/qREmRez.jpg" group-title="CINE",HBO + *HD
+#EXTINF:-1 tvg-id="HBO +" tvg-name="HBO + *HD" tvg-logo="https://i.imgur.com/qREmRez.jpg" group-title="CINE",HBO + *HD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/2392
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO + *HQ" tvg-logo="https://i.imgur.com/qREmRez.jpg" group-title="CINE",HBO + *HQ
+#EXTINF:-1 tvg-id="HBO +" tvg-name="HBO + *HQ" tvg-logo="https://i.imgur.com/qREmRez.jpg" group-title="CINE",HBO + *HQ
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/896
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 *FHD" tvg-logo="https://i.imgur.com/QIf07YK.jpg" group-title="CINE",HBO 2 *FHD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/810
@@ -155,11 +155,11 @@ http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/1008
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/984
 #EXTINF:-1 tvg-id="HISTORY *FHD" tvg-name="HISTORY *FHD" tvg-logo="https://i.imgur.com/JJQZ3Fd.jpg" group-title="CULTURA  Y DOCUMENTALES",HISTORY *FHD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/968
-#EXTINF:-1 tvg-id="NAT GEO AR" tvg-name="NAT GEO *HQ" tvg-logo="https://i.imgur.com/gzYEchy.jpg" group-title="CULTURA Y ENTRETENIMIENTO",NAT GEO *HQ
+#EXTINF:-1 tvg-id="NAT GEO AR" tvg-name="NAT GEO *HQ" tvg-logo="https://i.imgur.com/gzYEchy.jpg" group-title="CULTURA  Y DOCUMENTALES",NAT GEO *HQ
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/1007
-#EXTINF:-1 tvg-id="NAT GEO AR" tvg-name="NAT GEO *HD" tvg-logo="https://i.imgur.com/gzYEchy.jpg" group-title="CULTURA Y ENTRETENIMIENTO",NAT GEO *HD
+#EXTINF:-1 tvg-id="NAT GEO AR" tvg-name="NAT GEO *HD" tvg-logo="https://i.imgur.com/gzYEchy.jpg" group-title="CULTURA  Y DOCUMENTALES",NAT GEO *HD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/982
-#EXTINF:-1 tvg-id="NAT GEO AR" tvg-name="NAT GEO *FHD" tvg-logo="https://i.imgur.com/gzYEchy.jpg" group-title="CULTURA Y ENTRETENIMIENTO",NAT GEO *FHD
+#EXTINF:-1 tvg-id="NAT GEO AR" tvg-name="NAT GEO *FHD" tvg-logo="https://i.imgur.com/gzYEchy.jpg" group-title="CULTURA  Y DOCUMENTALES",NAT GEO *FHD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/1037
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD *HQ" tvg-logo="https://i.imgur.com/4gmfyYt.jpg" group-title="CULTURA  Y DOCUMENTALES",NAT GEO WILD *HQ
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/1006
@@ -333,23 +333,23 @@ http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/27552
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/190
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" tvg-name="CANAL DE LAS ESTRELLAS *HQ" tvg-logo="https://i.imgur.com/Iy0UtMP.jpg" group-title="ENTRETENIMIENTO",CANAL DE LAS ESTRELLAS *HQ
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/27553
-#EXTINF:-1 tvg-id="E! ENTERTAIMENT" tvg-name="E! ENTERTAIMENT *HQ" tvg-logo="https://i.imgur.com/8spMPGB.jpg" group-title="CULTURA  Y DOCUMENTALES",E! ENTERTAIMENT *HQ
+#EXTINF:-1 tvg-id="E! ENTERTAIMENT" tvg-name="E! ENTERTAIMENT *HQ" tvg-logo="https://i.imgur.com/8spMPGB.jpg" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT *HQ
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/996
-#EXTINF:-1 tvg-id="E! ENTERTAIMENT" tvg-name="E! ENTERTAIMENT *HD" tvg-logo="https://i.imgur.com/8spMPGB.jpg" group-title="CULTURA  Y DOCUMENTALES",E! ENTERTAIMENT *HD
+#EXTINF:-1 tvg-id="E! ENTERTAIMENT" tvg-name="E! ENTERTAIMENT *HD" tvg-logo="https://i.imgur.com/8spMPGB.jpg" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT *HD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/987
-#EXTINF:-1 tvg-id="E! ENTERTAIMENT" tvg-name="E! ENTERTAIMENT *FHD" tvg-logo="https://i.imgur.com/8spMPGB.jpg" group-title="CULTURA  Y DOCUMENTALES",E! ENTERTAIMENT *FHD
+#EXTINF:-1 tvg-id="E! ENTERTAIMENT" tvg-name="E! ENTERTAIMENT *FHD" tvg-logo="https://i.imgur.com/8spMPGB.jpg" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT *FHD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/971
-#EXTINF:-1 tvg-id="EL GOURMET MX" tvg-name="EL GOURMET *HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="CULTURA  Y DOCUMENTALES",EL GOURMET *HQ
+#EXTINF:-1 tvg-id="EL GOURMET MX" tvg-name="EL GOURMET *HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="ENTRETENIMIENTO",EL GOURMET *HQ
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/1010
-#EXTINF:-1 tvg-id="EL GOURMET AR" tvg-name="EL GOURMET *HD" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="CULTURA  Y DOCUMENTALES",EL GOURMET *HD
+#EXTINF:-1 tvg-id="EL GOURMET AR" tvg-name="EL GOURMET *HD" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="ENTRETENIMIENTO",EL GOURMET *HD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/986
-#EXTINF:-1 tvg-id="EL GOURMET MX" tvg-name="EL GOURMET *FHD" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="CULTURA  Y DOCUMENTALES",EL GOURMET *FHD
+#EXTINF:-1 tvg-id="EL GOURMET MX" tvg-name="EL GOURMET *FHD" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="ENTRETENIMIENTO",EL GOURMET *FHD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/970
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK *HQ" tvg-logo="https://i.imgur.com/BAjBITC.jpg" group-title="CULTURA  Y DOCUMENTALES",FOOD NETWORK *HQ
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK *HQ" tvg-logo="https://i.imgur.com/BAjBITC.jpg" group-title="ENTRETENIMIENTO",FOOD NETWORK *HQ
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/994
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK *HD" tvg-logo="https://i.imgur.com/BAjBITC.jpg" group-title="CULTURA  Y DOCUMENTALES",FOOD NETWORK *HD
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK *HD" tvg-logo="https://i.imgur.com/BAjBITC.jpg" group-title="ENTRETENIMIENTO",FOOD NETWORK *HD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/1015
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK *FHD" tvg-logo="https://i.imgur.com/BAjBITC.jpg" group-title="CULTURA  Y DOCUMENTALES",FOOD NETWORK *FHD
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK *FHD" tvg-logo="https://i.imgur.com/BAjBITC.jpg" group-title="ENTRETENIMIENTO",FOOD NETWORK *FHD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/969
 #EXTINF:-1 tvg-id="MASCHIC" tvg-name="MAS CHIC *HD" tvg-logo="https://i.imgur.com/bBeLrlL.jpg" group-title="ENTRETENIMIENTO",MAS CHIC *HD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/28432

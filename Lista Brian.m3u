@@ -1,11 +1,11 @@
 #EXTM3U
 
 #CINE
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO *FHD" tvg-logo="https://i.imgur.com/0xN2Ibe.jpg" group-title="CINE",HBO *FHD
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.imgur.com/0xN2Ibe.jpg" group-title="CINE",HBO *FHD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/814
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO *HD" tvg-logo="https://i.imgur.com/0xN2Ibe.jpg" group-title="CINE",HBO *HD
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.imgur.com/0xN2Ibe.jpg" group-title="CINE",HBO *HD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/2388
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO *HQ" tvg-logo="https://i.imgur.com/0xN2Ibe.jpg" group-title="CINE",HBO *HQ
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.imgur.com/0xN2Ibe.jpg" group-title="CINE",HBO *HQ
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/899
 #EXTINF:-1 tvg-id="HBO +" tvg-name="HBO + *FHD" tvg-logo="https://i.imgur.com/qREmRez.jpg" group-title="CINE",HBO + *FHD
 http://xdgo.live:8080/brianbabon33/xFJ6bwxAAf/812

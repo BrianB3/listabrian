@@ -1,11 +1,11 @@
 #EXTM3U
 
 #CINE
-#EXTINF:-1 tvg-id="AXN MX" tvg-name="AXN MX" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="CINEMA | FHD",AXN *FHD
+#EXTINF:-1 tvg-id="AXN MX" tvg-name="AXN MX" tvg-logo="https://i.imgur.com/Pnpftj6.jpg" group-title="CINE",AXN *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/804
-#EXTINF:-1 tvg-id="AXN MX" tvg-name="AXN MX" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="CINEMA | HD | HQ",AXN *HD
+#EXTINF:-1 tvg-id="AXN MX" tvg-name="AXN MX" tvg-logo="https://i.imgur.com/Pnpftj6.jpg" group-title="CINE",AXN *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/944
-#EXTINF:-1 tvg-id="AXN UY" tvg-name="AXN UY" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="CINEMA | HD | HQ",AXN *HQ
+#EXTINF:-1 tvg-id="AXN UY" tvg-name="AXN UY" tvg-logo="https://i.imgur.com/Pnpftj6.jpg" group-title="CINE",AXN *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/917
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.imgur.com/0xN2Ibe.jpg" group-title="CINE",HBO *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/814

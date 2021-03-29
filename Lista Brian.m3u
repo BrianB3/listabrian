@@ -1,6 +1,12 @@
 #EXTM3U
 
 #CINE
+#EXTINF:-1 tvg-id="AXN MX" tvg-name="AXN MX" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="CINEMA | FHD",AXN *FHD
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/804
+#EXTINF:-1 tvg-id="AXN MX" tvg-name="AXN MX" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="CINEMA | HD | HQ",AXN *HD
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/944
+#EXTINF:-1 tvg-id="AXN UY" tvg-name="AXN UY" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="CINEMA | HD | HQ",AXN *HQ
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/917
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.imgur.com/0xN2Ibe.jpg" group-title="CINE",HBO *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/814
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.imgur.com/0xN2Ibe.jpg" group-title="CINE",HBO *HD
@@ -89,29 +95,35 @@ http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/932
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/869
 
 #CULTURA Y DOCUMENTALES
-#EXTINF:-1 tvg-id="ANIMAL PLANET *HQ" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/I6xUpsN.jpg" group-title="CULTURA Y DOCUMENTALES",ANIMAL PLANET *HQ
+#EXTINF:-1 tvg-id="A&E UY" tvg-name="A&E UY" tvg-logo="https://i.imgur.com/Wo0oWbc.jpg" group-title="CULTURA Y DOCUMENTALES",A&E *FHD
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/807
+#EXTINF:-1 tvg-id="A&E UY" tvg-name="A&E UY" tvg-logo="https://i.imgur.com/Wo0oWbc.jpg" group-title="CULTURA Y DOCUMENTALES",A&E *HD
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/948
+#EXTINF:-1 tvg-id="A&E UY" tvg-name="A&E UY" tvg-logo="https://i.imgur.com/Wo0oWbc.jpg" group-title="CULTURA Y DOCUMENTALES",A&E *HQ
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/880
+#EXTINF:-1 tvg-id="ANIMAL PLANET MX" tvg-name="ANIMAL PLANET MX" tvg-logo="https://i.imgur.com/I6xUpsN.jpg" group-title="CULTURA Y DOCUMENTALES",ANIMAL PLANET *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1005
-#EXTINF:-1 tvg-id="ANIMAL PLANET *HD" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/I6xUpsN.jpg" group-title="CULTURA Y DOCUMENTALES",ANIMAL PLANET *HD
+#EXTINF:-1 tvg-id="ANIMAL PLANET MX" tvg-name="ANIMAL PLANET MX" tvg-logo="https://i.imgur.com/I6xUpsN.jpg" group-title="CULTURA Y DOCUMENTALES",ANIMAL PLANET *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1026
-#EXTINF:-1 tvg-id="ANIMAL PLANET *FHD" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/I6xUpsN.jpg" group-title="CULTURA Y DOCUMENTALES",ANIMAL PLANET *FHD
+#EXTINF:-1 tvg-id="ANIMAL PLANET UY" tvg-name="ANIMAL PLANET UY" tvg-logo="https://i.imgur.com/I6xUpsN.jpg" group-title="CULTURA Y DOCUMENTALES",ANIMAL PLANET *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/979
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL *HQ" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/JoDjCag.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY CHANNEL *HQ
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL MX" tvg-name="DISCOVERY CHANNEL MX" tvg-logo="https://i.imgur.com/JoDjCag.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY CHANNEL *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1004
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL *HD" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/JoDjCag.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY CHANNEL *HD
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL UY" tvg-name="DISCOVERY CHANNEL UY" tvg-logo="https://i.imgur.com/JoDjCag.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY CHANNEL *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1016
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL *FHD" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/JoDjCag.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY CHANNEL *FHD
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL MX" tvg-name="DISCOVERY CHANNEL MX" tvg-logo="https://i.imgur.com/JoDjCag.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY CHANNEL *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/978
-#EXTINF:-1 tvg-id="DISCOVERY H&H *HQ" tvg-name="DISCOVERY H&H" tvg-logo="https://i.imgur.com/tCTEBxf.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY H&H *HQ
+#EXTINF:-1 tvg-id="DISCOVERY H&H MX" tvg-name="DISCOVERY H&H MX" tvg-logo="https://i.imgur.com/tCTEBxf.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY H&H *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1002
-#EXTINF:-1 tvg-id="DISCOVERY H&H *HD" tvg-name="DISCOVERY H&H" tvg-logo="https://i.imgur.com/tCTEBxf.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY H&H *HD
+#EXTINF:-1 tvg-id="DISCOVERY H&H MX" tvg-name="DISCOVERY H&H MX" tvg-logo="https://i.imgur.com/tCTEBxf.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY H&H *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1032
-#EXTINF:-1 tvg-id="DISCOVERY H&H *FHD" tvg-name="DISCOVERY H&H" tvg-logo="https://i.imgur.com/tCTEBxf.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY H&H *FHD
+#EXTINF:-1 tvg-id="DISCOVERY H&H UY" tvg-name="DISCOVERY H&H UY" tvg-logo="https://i.imgur.com/tCTEBxf.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY H&H *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/976
-#EXTINF:-1 tvg-id="DISCOVERY ID *HQ" tvg-name="DISCOVERY ID" tvg-logo="https://i.imgur.com/doDB9JD.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY ID *HQ
+#EXTINF:-1 tvg-id="DISCOVERY ID UY" tvg-name="DISCOVERY ID UY" tvg-logo="https://i.imgur.com/doDB9JD.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY ID *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1001
-#EXTINF:-1 tvg-id="DISCOVERY ID *HD" tvg-name="DISCOVERY ID" tvg-logo="https://i.imgur.com/doDB9JD.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY ID *HD
+#EXTINF:-1 tvg-id="DISCOVERY ID UY" tvg-name="DISCOVERY ID UY" tvg-logo="https://i.imgur.com/doDB9JD.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY ID *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/966
-#EXTINF:-1 tvg-id="DISCOVERY ID *FHD" tvg-name="DISCOVERY ID" tvg-logo="https://i.imgur.com/doDB9JD.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY ID *FHD
+#EXTINF:-1 tvg-id="DISCOVERY ID MX" tvg-name="DISCOVERY ID MX" tvg-logo="https://i.imgur.com/doDB9JD.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY ID *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/965
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.imgur.com/4phrItf.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY SCIENCE *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1000
@@ -149,17 +161,17 @@ http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/40086
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/40085
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://i.imgur.com/YhEbbvL.jpg" group-title="CULTURA Y DOCUMENTALES",HGTV *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/40084
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/JJQZ3Fd.jpg" group-title="CULTURA Y DOCUMENTALES",HISTORY *HQ
+#EXTINF:-1 tvg-id="HISTORY CO" tvg-name="HISTORY CO" tvg-logo="https://i.imgur.com/JJQZ3Fd.jpg" group-title="CULTURA Y DOCUMENTALES",HISTORY *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1008
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/JJQZ3Fd.jpg" group-title="CULTURA Y DOCUMENTALES",HISTORY *HD
+#EXTINF:-1 tvg-id="HISTORY CO" tvg-name="HISTORY CO" tvg-logo="https://i.imgur.com/JJQZ3Fd.jpg" group-title="CULTURA Y DOCUMENTALES",HISTORY *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/984
-#EXTINF:-1 tvg-id="HISTORY MX" tvg-name="HISTORY MX" tvg-logo="https://i.imgur.com/JJQZ3Fd.jpg" group-title="CULTURA Y DOCUMENTALES",HISTORY *FHD
+#EXTINF:-1 tvg-id="HISTORY CO" tvg-name="HISTORY CO" tvg-logo="https://i.imgur.com/JJQZ3Fd.jpg" group-title="CULTURA Y DOCUMENTALES",HISTORY *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/968
-#EXTINF:-1 tvg-id="NAT GEO AR" tvg-name="NAT GEO AR" tvg-logo="https://i.imgur.com/gzYEchy.jpg" group-title="CULTURA Y DOCUMENTALES",NAT GEO *HQ
+#EXTINF:-1 tvg-id="NAT GEO MX" tvg-name="NAT GEO MX" tvg-logo="https://i.imgur.com/gzYEchy.jpg" group-title="CULTURA Y DOCUMENTALES",NAT GEO *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1007
-#EXTINF:-1 tvg-id="NAT GEO AR" tvg-name="NAT GEO AR" tvg-logo="https://i.imgur.com/gzYEchy.jpg" group-title="CULTURA Y DOCUMENTALES",NAT GEO *HD
+#EXTINF:-1 tvg-id="NAT GEO MX" tvg-name="NAT GEO MX" tvg-logo="https://i.imgur.com/gzYEchy.jpg" group-title="CULTURA Y DOCUMENTALES",NAT GEO *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/982
-#EXTINF:-1 tvg-id="NAT GEO AR" tvg-name="NAT GEO AR" tvg-logo="https://i.imgur.com/gzYEchy.jpg" group-title="CULTURA Y DOCUMENTALES",NAT GEO *FHD
+#EXTINF:-1 tvg-id="NAT GEO CO" tvg-name="NAT GEO CO" tvg-logo="https://i.imgur.com/gzYEchy.jpg" group-title="CULTURA Y DOCUMENTALES",NAT GEO *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1037
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.imgur.com/4gmfyYt.jpg" group-title="CULTURA Y DOCUMENTALES",NAT GEO WILD *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1006
@@ -167,11 +179,11 @@ http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1006
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/981
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.imgur.com/4gmfyYt.jpg" group-title="CULTURA Y DOCUMENTALES",NAT GEO WILD *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1038
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.imgur.com/PwynJSx.jpg" group-title="CULTURA Y DOCUMENTALES",TLC *HQ
+#EXTINF:-1 tvg-id="TLC CO" tvg-name="TLC CO" tvg-logo="https://i.imgur.com/PwynJSx.jpg" group-title="CULTURA Y DOCUMENTALES",TLC *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/989
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.imgur.com/PwynJSx.jpg" group-title="CULTURA Y DOCUMENTALES",TLC *HD
+#EXTINF:-1 tvg-id="TLC UY" tvg-name="TLC UY" tvg-logo="https://i.imgur.com/PwynJSx.jpg" group-title="CULTURA Y DOCUMENTALES",TLC *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1021
-#EXTINF:-1 tvg-id="TLC MX" tvg-name="TLC MX" tvg-logo="https://i.imgur.com/PwynJSx.jpg" group-title="CULTURA Y DOCUMENTALES",TLC *FHD
+#EXTINF:-1 tvg-id="TLC UY" tvg-name="TLC UY" tvg-logo="https://i.imgur.com/PwynJSx.jpg" group-title="CULTURA Y DOCUMENTALES",TLC *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/961
 
 #DEPORTES

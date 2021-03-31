@@ -55,40 +55,58 @@ http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/809
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/955
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://i.imgur.com/pNlb8pa.jpg" group-title="CINE",HBO XTREME *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/894
+#EXTINF:-1 tvg-id="STAR ACTION" tvg-name="STAR ACTION" tvg-logo="https://i.imgur.com/QCDOoN3.jpg" group-title="CINE",STAR ACTION *FHD
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/784
 #EXTINF:-1 tvg-id="STAR ACTION" tvg-name="STAR ACTION" tvg-logo="https://i.imgur.com/QCDOoN3.jpg" group-title="CINE",STAR ACTION *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/910
 #EXTINF:-1 tvg-id="STAR ACTION" tvg-name="STAR ACTION" tvg-logo="https://i.imgur.com/QCDOoN3.jpg" group-title="CINE",STAR ACTION *HD | op2
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/937
 #EXTINF:-1 tvg-id="STAR ACTION" tvg-name="STAR ACTION" tvg-logo="https://i.imgur.com/QCDOoN3.jpg" group-title="CINE",STAR ACTION *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/875
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://i.imgur.com/1FLlWiG.jpg" group-title="CINE",STAR CHANNEL *FHD
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/792
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://i.imgur.com/1FLlWiG.jpg" group-title="CINE",STAR CHANNEL *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/938
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://i.imgur.com/1FLlWiG.jpg" group-title="CINE",STAR CHANNEL *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/874
+#EXTINF:-1 tvg-id="STAR CINEMA" tvg-name="STAR CINEMA" tvg-logo="https://i.imgur.com/NcDBbDB.jpg" group-title="CINE",STAR CINEMA *FHD
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/785
 #EXTINF:-1 tvg-id="STAR CINEMA" tvg-name="STAR CINEMA" tvg-logo="https://i.imgur.com/NcDBbDB.jpg" group-title="CINE",STAR CINEMA *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/936
 #EXTINF:-1 tvg-id="STAR CINEMA" tvg-name="STAR CINEMA" tvg-logo="https://i.imgur.com/NcDBbDB.jpg" group-title="CINE",STAR CINEMA *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/873
+#EXTINF:-1 tvg-id="STAR CLASSICS" tvg-name="STAR CLASSICS" tvg-logo="https://i.imgur.com/zb6LJlC.jpg" group-title="CINE",STAR CLASSICS *FHD
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/790
 #EXTINF:-1 tvg-id="STAR CLASSICS" tvg-name="STAR CLASSICS" tvg-logo="https://i.imgur.com/zb6LJlC.jpg" group-title="CINE",STAR CLASSICS *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/935
 #EXTINF:-1 tvg-id="STAR CLASSICS" tvg-name="STAR CLASSICS" tvg-logo="https://i.imgur.com/zb6LJlC.jpg" group-title="CINE",STAR CLASSICS *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/908
+#EXTINF:-1 tvg-id="STAR COMEDY" tvg-name="STAR COMEDY" tvg-logo="https://i.imgur.com/5Yrwg6z.jpg" group-title="CINE",STAR COMEDY *FHD
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/791
 #EXTINF:-1 tvg-id="STAR COMEDY" tvg-name="STAR COMEDY" tvg-logo="https://i.imgur.com/5Yrwg6z.jpg" group-title="CINE",STAR COMEDY *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/904
 #EXTINF:-1 tvg-id="STAR COMEDY" tvg-name="STAR COMEDY" tvg-logo="https://i.imgur.com/5Yrwg6z.jpg" group-title="CINE",STAR COMEDY *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/907
+#EXTINF:-1 tvg-id="STAR FUN" tvg-name="STAR FUN" tvg-logo="https://i.imgur.com/KhOa1dH.jpg" group-title="CINE",STAR FUN *FHD
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/789
 #EXTINF:-1 tvg-id="STAR FUN" tvg-name="STAR FUN" tvg-logo="https://i.imgur.com/KhOa1dH.jpg" group-title="CINE",STAR FUN *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/906
 #EXTINF:-1 tvg-id="STAR FUN" tvg-name="STAR FUN" tvg-logo="https://i.imgur.com/KhOa1dH.jpg" group-title="CINE",STAR FUN *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/905
+#EXTINF:-1 tvg-id="STAR HITS" tvg-name="STAR HITS" tvg-logo="https://i.imgur.com/Zp3eZzD.jpg" group-title="CINE",STAR HITS *FHD
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/794
 #EXTINF:-1 tvg-id="STAR HITS" tvg-name="STAR HITS" tvg-logo="https://i.imgur.com/Zp3eZzD.jpg" group-title="CINE",STAR HITS *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/933
 #EXTINF:-1 tvg-id="STAR HITS" tvg-name="STAR HITS" tvg-logo="https://i.imgur.com/Zp3eZzD.jpg" group-title="CINE",STAR HITS *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/870
+#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" tvg-logo="https://i.imgur.com/s876xk1.jpg" group-title="CINE",STAR LIFE *FHD
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/793
 #EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" tvg-logo="https://i.imgur.com/s876xk1.jpg" group-title="CINE",STAR LIFE *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/956
 #EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" tvg-logo="https://i.imgur.com/s876xk1.jpg" group-title="CINE",STAR LIFE *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/871
+#EXTINF:-1 tvg-id="STAR SERIES" tvg-name="STAR SERIES" tvg-logo="https://i.imgur.com/qTkO8ns.jpg" group-title="CINE",STAR SERIES *FHD
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/788
 #EXTINF:-1 tvg-id="STAR SERIES" tvg-name="STAR SERIES" tvg-logo="https://i.imgur.com/qTkO8ns.jpg" group-title="CINE",STAR SERIES *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/932
 #EXTINF:-1 tvg-id="STAR SERIES" tvg-name="STAR SERIES" tvg-logo="https://i.imgur.com/qTkO8ns.jpg" group-title="CINE",STAR SERIES *HQ
@@ -339,6 +357,8 @@ http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/16454
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/41610
 
 #ENTRETENIMIENTO
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngnOLdyIRzqg9TPwCv9wJhA4K3HIjb0RXzQ0l-rt4Y=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL COCINA
+http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/42
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://i.imgur.com/Iy0UtMP.jpg" group-title="ENTRETENIMIENTO",CANAL DE LAS ESTRELLAS *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/27552
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://i.imgur.com/Iy0UtMP.jpg" group-title="ENTRETENIMIENTO",CANAL DE LAS ESTRELLAS *HD
@@ -411,13 +431,13 @@ http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/408
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/409
 #EXTINF:-1 tvg-id="CANAL 2 VISION CANARIA" tvg-name="CANAL 2 VISION CANARIA" tvg-logo="https://pbs.twimg.com/profile_images/943560592538914817/Ymr4k-EQ_400x400.jpg" group-title="URUGUAY",CANAL 2 VISION CANARIA
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/40974
-#EXTINF:-1 tvg-id="CANAL 4" tvg-name="CANAL 4" tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="URUGUAY",CANAL 4 *HQ
+#EXTINF:-1 tvg-id="CANAL 4" tvg-name="CANAL 4" num=4 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="URUGUAY",CANAL 4 *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/17331
-#EXTINF:-1 tvg-id="CANAL 4" tvg-name="CANAL 4" tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="URUGUAY",CANAL 4 *HQ | op2
+#EXTINF:-1 tvg-id="CANAL 4" tvg-name="CANAL 4" num=5 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="URUGUAY",CANAL 4 *HQ | op2
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/28490
-#EXTINF:-1 tvg-id="CANAL 4" tvg-name="CANAL 4" tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="URUGUAY",CANAL 4 *HD
+#EXTINF:-1 tvg-id="CANAL 4" tvg-name="CANAL 4" num=6 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="URUGUAY",CANAL 4 *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/431
-#EXTINF:-1 tvg-id="CANAL 4" tvg-name="CANAL 4" tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="URUGUAY",CANAL 4 *HD | op2
+#EXTINF:-1 tvg-id="CANAL 4" tvg-name="CANAL 4" num=7 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="URUGUAY",CANAL 4 *HD | op2
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/28489
 #EXTINF:-1 tvg-id="CANAL 4 JUAN LACAZE" tvg-name="CANAL 4 JUAN LACAZE" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6157/240/default.jpg" group-title="URUGUAY",CANAL 4 JUAN LACAZE
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/40982

@@ -127,9 +127,9 @@ http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1026
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/979
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL MX" tvg-name="DISCOVERY CHANNEL MX" tvg-logo="https://i.imgur.com/JoDjCag.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY CHANNEL *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1004
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL UY" tvg-name="DISCOVERY CHANNEL UY" tvg-logo="https://i.imgur.com/JoDjCag.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY CHANNEL *HD
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL MX" tvg-name="DISCOVERY CHANNEL MX" tvg-logo="https://i.imgur.com/JoDjCag.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY CHANNEL *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1016
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL MX" tvg-name="DISCOVERY CHANNEL MX" tvg-logo="https://i.imgur.com/JoDjCag.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY CHANNEL *FHD
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL UY" tvg-name="DISCOVERY CHANNEL UY" tvg-logo="https://i.imgur.com/JoDjCag.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY CHANNEL *FHD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/978
 #EXTINF:-1 tvg-id="DISCOVERY H&H MX" tvg-name="DISCOVERY H&H MX" tvg-logo="https://i.imgur.com/tCTEBxf.jpg" group-title="CULTURA Y DOCUMENTALES",DISCOVERY H&H *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1002
@@ -281,7 +281,7 @@ http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/41596
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/41603
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/KrECGwZ.jpg" group-title="DEPORTES",ESPN 3 *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/41597
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN ETRA" tvg-logo="https://i.imgur.com/3CT9ScQ.jpg" group-title="DEPORTES",ESPN EXTRA *HQ
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://i.imgur.com/3CT9ScQ.jpg" group-title="DEPORTES",ESPN EXTRA *HQ
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1794
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://i.imgur.com/3CT9ScQ.jpg" group-title="DEPORTES",ESPN EXTRA *HD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/1798

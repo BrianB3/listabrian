@@ -453,7 +453,7 @@ http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/40945
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/413
 #EXTINF:-1 tvg-id="CANAL 6 DURAZNO" tvg-name="CANAL 6 DURAZNO" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/35660/240/default.jpg" group-title="URUGUAY",CANAL 6 DURAZNO | op2
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/40959
-#EXTINF:-1 tvg-id="CANAL 7 PUNTA" tvg-name="CANAL 7 PUNTA" tvg-logo="https://pbs.twimg.com/profile_images/494615145985748992/CvEPY001_400x400.png" group-title="URUGUAY",CANAL 7 PUNTA
+#EXTINF:-1 tvg-id="CANAL 7 PUNTA" tvg-chno="90" tvg-name="CANAL 7 PUNTA" tvg-logo="https://pbs.twimg.com/profile_images/494615145985748992/CvEPY001_400x400.png" group-title="URUGUAY",CANAL 7 PUNTA
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/414
 #EXTINF:-1 tvg-id="CANAL 7 PUNTA" tvg-name="CANAL 7 PUNTA" tvg-logo="https://pbs.twimg.com/profile_images/494615145985748992/CvEPY001_400x400.png" group-title="URUGUAY",CANAL 7 PUNTA | op2
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/40946
@@ -503,7 +503,7 @@ http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/40936
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/425
 #EXTINF:-1 tvg-id="SAN JOSE AHORA" tvg-name="SAN JOSE AHORA" tvg-logo="https://i.imgur.com/OojPLcY.jpg" group-title="URUGUAY",SAN JOSE AHORA
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/40975
-#EXTINF:-1 tvg-id="TELEVISION NACIONAL URUGUAY" tvg-name="TELEVISION NACIONAL URUGUAY" tvg-logo="https://pbs.twimg.com/profile_images/1057644370596376577/nSqkc2zF_400x400.jpg" group-title="URUGUAY",TELEVISION NACIONAL URUGUAY
+#EXTINF:-1 tvg-id="TELEVISION NACIONAL URUGUAY" tvg-name="TELEVISION NACIONAL URUGUAY" tvg-logo="https://pbs.twimg.com/profile_images/1376505000197816323/pxORo5EI_400x400.jpg" group-title="URUGUAY",TELEVISION NACIONAL URUGUAY
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/429
 #EXTINF:-1 tvg-id="TV CIUDAD" tvg-name="TV CIUDAD" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6046/240/default.jpg" group-title="URUGUAY",TV CIUDAD
 http://tv-privado.live:8080/brianbabon33/xFJ6bwxAAf/426
